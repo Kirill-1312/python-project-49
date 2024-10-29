@@ -23,6 +23,6 @@ def main() -> None:
 Let's try again, Sam!''')
             break
     else:
-        print(f'Congratulations, {name}')
+        print(f'Congratulations, {name}!')
 
 
